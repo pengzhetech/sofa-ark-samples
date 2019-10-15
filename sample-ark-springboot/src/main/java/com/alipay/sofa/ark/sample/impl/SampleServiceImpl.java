@@ -23,6 +23,7 @@ import com.alipay.sofa.ark.sample.facade.SampleService;
  * @since 0.1.0
  */
 public class SampleServiceImpl implements SampleService {
+
     public String service() {
         return "A Sample Service";
     }
